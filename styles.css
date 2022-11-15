@@ -190,7 +190,7 @@ input:focus {
         padding-top: 0;
     }
     .grid-item {
-        flex-basis: 110px;
+        flex-basis: 20%;
         flex-grow: 1;
         margin-top: 0.5em;
         object-fit: cover;
