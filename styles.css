@@ -98,6 +98,7 @@ p {
 .img-main {
     width: 100%;
     height: 100%;
+    border-radius: 4px;
 }
 
 .main-content p,
@@ -108,7 +109,7 @@ form {
 .img-grid {
     display: flex;
     flex-wrap: wrap;  
-    gap: 3px;  
+    gap: 5px;  
     width: 100%;
 }
 
